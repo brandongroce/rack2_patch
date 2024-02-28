@@ -1,0 +1,3297 @@
+{
+  "safeMode": false,
+  "token": "YczcufmXATJiM+OzUNq3",
+  "windowMaximized": false,
+  "windowSize": [
+    1920.0,
+    1080.0
+  ],
+  "windowPos": [
+    204.0,
+    108.0
+  ],
+  "invertZoom": false,
+  "pixelRatio": 0.0,
+  "uiTheme": "hcdark",
+  "cableOpacity": 0.25000059604644775,
+  "cableTension": 0.77399998903274536,
+  "rackBrightness": 0.86000007390975952,
+  "haloBrightness": 0.91200000047683716,
+  "allowCursorLock": true,
+  "knobMode": 0,
+  "knobScroll": false,
+  "knobLinearSensitivity": 0.0010000000474974513,
+  "knobScrollSensitivity": 0.0010000000474974513,
+  "sampleRate": 0.0,
+  "threadCount": 1,
+  "tooltips": true,
+  "cpuMeter": false,
+  "lockModules": false,
+  "squeezeModules": true,
+  "preferDarkPanels": true,
+  "frameRateLimit": 30.0,
+  "autosaveInterval": 15.0,
+  "recentPatchPaths": [
+    "/Users/brandongroce/Documents/Rack2/patches/axel_f.vcv",
+    "/Users/brandongroce/Documents/Rack2/patches/terminator2.vcv",
+    "/Users/brandongroce/Documents/Rack2/patches/from_axel_f.vcv",
+    "/Users/brandongroce/Documents/Rack2/patches/falcon_testing.vcv",
+    "/Users/brandongroce/Downloads/Stages-Patch-Files/Example 5.vcv",
+    "/Users/brandongroce/Downloads/Stages-Patch-Files/Example 4.vcv",
+    "/Users/brandongroce/Downloads/Stages-Patch-Files/Example 3.vcv",
+    "/Users/brandongroce/Downloads/Stages-Patch-Files/Example 2.vcv",
+    "/Users/brandongroce/Downloads/Stages-Patch-Files/Example 1.vcv",
+    "/Users/brandongroce/Documents/Rack2/patches/mutable1.vcv"
+  ],
+  "cableColors": [
+    "#f3374b",
+    "#ffb437",
+    "#00b56e",
+    "#3695ef",
+    "#8b4ade"
+  ],
+  "autoCheckUpdates": true,
+  "showTipsOnLaunch": false,
+  "tipIndex": 3,
+  "browserSort": 0,
+  "browserZoom": -1.0,
+  "pluginSettings": {
+    "monome": {
+      "keyboardLayout": "us-qwerty"
+    },
+    "alefsbits": {
+      "global_contrast": 0.89999997615814209,
+      "use_global_contrast": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "module_contrast": [
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209,
+        0.89999997615814209
+      ]
+    }
+  },
+  "moduleInfos": {
+    "AaronStatic": {
+      "ChordCV": {
+        "added": 1,
+        "lastAdded": 1707792516.2376878
+      }
+    },
+    "Ahornberg": {
+      "Metronome": {
+        "added": 1,
+        "lastAdded": 1708718351.7427628
+      }
+    },
+    "AlgoritmArte": {
+      "Clockkky": {
+        "added": 1,
+        "lastAdded": 1707864819.8283
+      }
+    },
+    "Alikins": {
+      "BigMuteButton": {
+        "added": 1,
+        "lastAdded": 1707699293.4842429
+      },
+      "Reference": {
+        "added": 1,
+        "lastAdded": 1707696073.5471718
+      }
+    },
+    "AlrightDevices": {
+      "Chronoblob2": {
+        "added": 1,
+        "lastAdded": 1708557324.7738309
+      }
+    },
+    "AmalgamatedHarmonics": {
+      "Arp31": {
+        "added": 1,
+        "lastAdded": 1707808793.7333438
+      },
+      "Arp32": {
+        "added": 2,
+        "lastAdded": 1707864143.6191678
+      },
+      "Chord": {
+        "added": 1,
+        "lastAdded": 1707806283.1712098
+      },
+      "Galaxy": {
+        "added": 1,
+        "lastAdded": 1707795877.6586719
+      },
+      "PolyScope": {
+        "added": 2,
+        "lastAdded": 1708661181.4242389
+      },
+      "Progress2": {
+        "added": 1,
+        "lastAdded": 1708029547.0076549
+      }
+    },
+    "AudibleInstruments": {
+      "Blinds": {
+        "added": 1,
+        "lastAdded": 1708494480.9269788
+      },
+      "Braids": {
+        "added": 11,
+        "lastAdded": 1708713319.0943658
+      },
+      "Branches": {
+        "added": 3,
+        "lastAdded": 1708493514.534771
+      },
+      "Clouds": {
+        "added": 3,
+        "lastAdded": 1708494166.5187478
+      },
+      "Elements": {
+        "added": 4,
+        "lastAdded": 1708721926.9464769
+      },
+      "Frames": {
+        "added": 1,
+        "lastAdded": 1708495131.4653778
+      },
+      "Marbles": {
+        "added": 2,
+        "lastAdded": 1708493126.0208879
+      },
+      "Plaits": {
+        "added": 5,
+        "lastAdded": 1708716140.5260549
+      },
+      "Ripples": {
+        "added": 4,
+        "lastAdded": 1708556713.97486
+      },
+      "Stages": {
+        "added": 1,
+        "lastAdded": 1708030648.9273469
+      },
+      "Streams": {
+        "added": 1,
+        "lastAdded": 1708032209.4454
+      },
+      "Tides": {
+        "added": 4,
+        "lastAdded": 1708494213.757642
+      },
+      "Veils": {
+        "added": 2,
+        "lastAdded": 1708494484.4949598
+      }
+    },
+    "AuntyLangtonsFree": {
+      "MusicalAnt": {
+        "added": 1,
+        "lastAdded": 1708391927.5915129
+      }
+    },
+    "Autinn": {
+      "Mixer6": {
+        "added": 1,
+        "lastAdded": 1707190713.725471
+      }
+    },
+    "Axioma": {
+      "TheBifurcator": {
+        "added": 1,
+        "lastAdded": 1708374373.992738
+      }
+    },
+    "Befaco": {
+      "EvenVCO": {
+        "added": 4,
+        "lastAdded": 1707805572.0888228
+      },
+      "Kickall": {
+        "added": 2,
+        "lastAdded": 1708634489.6207108
+      },
+      "NoisePlethora": {
+        "added": 1,
+        "lastAdded": 1707200600.9590318
+      },
+      "SpringReverb": {
+        "added": 1,
+        "lastAdded": 1707813241.4948149
+      },
+      "StereoStrip": {
+        "added": 1,
+        "lastAdded": 1707184601.7705529
+      }
+    },
+    "Bidoo": {
+      "ENCORE": {
+        "added": 1,
+        "lastAdded": 1707199281.2150679
+      },
+      "RATEAU": {
+        "added": 1,
+        "lastAdded": 1707627422.576159
+      },
+      "liMonADe": {
+        "added": 2,
+        "lastAdded": 1708394373.5000629
+      }
+    },
+    "Biset": {
+      "Biset-Gbu": {
+        "added": 1,
+        "lastAdded": 1707698050.6788728
+      },
+      "Biset-Tracker-Drum": {
+        "added": 1,
+        "lastAdded": 1708025770.31498
+      }
+    },
+    "Blamsoft-XFXF35": {
+      "Blamsoft-XFXF35": {
+        "added": 2,
+        "lastAdded": 1707800854.8402128
+      }
+    },
+    "Blamsoft-XFXReverb": {
+      "Blamsoft-XFXReverb": {
+        "added": 1,
+        "lastAdded": 1707791679.328074
+      }
+    },
+    "Blamsoft-XFXWave": {
+      "Blamsoft-XFXWave": {
+        "added": 1,
+        "lastAdded": 1707117182.637903
+      }
+    },
+    "Bogaudio": {
+      "Bogaudio-AD": {
+        "added": 2,
+        "lastAdded": 1708491400.0147569
+      },
+      "Bogaudio-ADSR": {
+        "added": 9,
+        "lastAdded": 1708627715.675487
+      },
+      "Bogaudio-ASR": {
+        "added": 2,
+        "lastAdded": 1708637703.437969
+      },
+      "Bogaudio-Additator": {
+        "added": 2,
+        "lastAdded": 1707806372.5831659
+      },
+      "Bogaudio-AddrSeq": {
+        "added": 2,
+        "lastAdded": 1707688999.8620219
+      },
+      "Bogaudio-AddrSeqX": {
+        "added": 1,
+        "lastAdded": 1707103936.7713509
+      },
+      "Bogaudio-Arp": {
+        "added": 2,
+        "lastAdded": 1708491708.2360499
+      },
+      "Bogaudio-Assign": {
+        "added": 1,
+        "lastAdded": 1707690105.250345
+      },
+      "Bogaudio-Blank3": {
+        "added": 1,
+        "lastAdded": 1708028347.8551528
+      },
+      "Bogaudio-CVD": {
+        "added": 2,
+        "lastAdded": 1708067281.6741779
+      },
+      "Bogaudio-DADSRHPlus": {
+        "added": 1,
+        "lastAdded": 1708024453.5947568
+      },
+      "Bogaudio-DGate": {
+        "added": 1,
+        "lastAdded": 1707858537.2395859
+      },
+      "Bogaudio-EightFO": {
+        "added": 2,
+        "lastAdded": 1707940134.443079
+      },
+      "Bogaudio-FMOp": {
+        "added": 9,
+        "lastAdded": 1708553412.782356
+      },
+      "Bogaudio-FourFO": {
+        "added": 9,
+        "lastAdded": 1708063114.9643509
+      },
+      "Bogaudio-FourMan": {
+        "added": 1,
+        "lastAdded": 1708066987.6620359
+      },
+      "Bogaudio-LFO": {
+        "added": 4,
+        "lastAdded": 1707942345.930351
+      },
+      "Bogaudio-LLFO": {
+        "added": 6,
+        "lastAdded": 1708556783.4467878
+      },
+      "Bogaudio-LPG": {
+        "added": 3,
+        "lastAdded": 1708024297.9886329
+      },
+      "Bogaudio-LVCF": {
+        "added": 3,
+        "lastAdded": 1708637781.7208688
+      },
+      "Bogaudio-LVCO": {
+        "added": 1,
+        "lastAdded": 1707946453.5083358
+      },
+      "Bogaudio-Matrix18": {
+        "added": 1,
+        "lastAdded": 1708026224.1858108
+      },
+      "Bogaudio-Matrix81": {
+        "added": 6,
+        "lastAdded": 1708634424.56481
+      },
+      "Bogaudio-Mix1": {
+        "added": 1,
+        "lastAdded": 1708477244.966315
+      },
+      "Bogaudio-Mix4": {
+        "added": 2,
+        "lastAdded": 1708023553.4817588
+      },
+      "Bogaudio-Mix4x": {
+        "added": 1,
+        "lastAdded": 1707685383.33955
+      },
+      "Bogaudio-Mix8": {
+        "added": 5,
+        "lastAdded": 1707791543.695581
+      },
+      "Bogaudio-Mix8x": {
+        "added": 5,
+        "lastAdded": 1707791563.72136
+      },
+      "Bogaudio-Offset": {
+        "added": 5,
+        "lastAdded": 1708063816.4555829
+      },
+      "Bogaudio-OneEight": {
+        "added": 2,
+        "lastAdded": 1707869492.6692419
+      },
+      "Bogaudio-PolyOff16": {
+        "added": 1,
+        "lastAdded": 1707954799.32916
+      },
+      "Bogaudio-PolyOff8": {
+        "added": 3,
+        "lastAdded": 1707954803.928587
+      },
+      "Bogaudio-Pressor": {
+        "added": 4,
+        "lastAdded": 1708657108.6621289
+      },
+      "Bogaudio-Reftone": {
+        "added": 12,
+        "lastAdded": 1708556297.609838
+      },
+      "Bogaudio-SampleHold": {
+        "added": 3,
+        "lastAdded": 1708487612.4879689
+      },
+      "Bogaudio-Switch": {
+        "added": 4,
+        "lastAdded": 1708065393.6837049
+      },
+      "Bogaudio-Switch18": {
+        "added": 1,
+        "lastAdded": 1707954687.2332098
+      },
+      "Bogaudio-Switch44": {
+        "added": 1,
+        "lastAdded": 1708487237.2701418
+      },
+      "Bogaudio-Switch81": {
+        "added": 1,
+        "lastAdded": 1707689863.526202
+      },
+      "Bogaudio-UMix": {
+        "added": 1,
+        "lastAdded": 1707946587.1233799
+      },
+      "Bogaudio-VCA": {
+        "added": 2,
+        "lastAdded": 1708627704.863265
+      },
+      "Bogaudio-VCF": {
+        "added": 3,
+        "lastAdded": 1708638123.0374858
+      },
+      "Bogaudio-VCO": {
+        "added": 1,
+        "lastAdded": 1707801856.9512219
+      },
+      "Bogaudio-Walk": {
+        "added": 2,
+        "lastAdded": 1708379797.1182659
+      },
+      "Bogaudio-XCO": {
+        "added": 2,
+        "lastAdded": 1707801876.839155
+      },
+      "Bogaudio-XFade": {
+        "added": 1,
+        "lastAdded": 1708631977.885191
+      }
+    },
+    "Coffee": {
+      "Between": {
+        "added": 1,
+        "lastAdded": 1707695743.0024838
+      },
+      "Fork": {
+        "added": 2,
+        "lastAdded": 1707700971.233423
+      }
+    },
+    "Core": {
+      "AudioInterface": {
+        "added": 2,
+        "lastAdded": 1707112991.7982478
+      },
+      "AudioInterface2": {
+        "added": 5,
+        "lastAdded": 1708383566.0657039
+      },
+      "Blank": {
+        "added": 5,
+        "lastAdded": 1708725696.5738089
+      },
+      "MIDI-Map": {
+        "added": 2,
+        "lastAdded": 1707857572.8612959
+      },
+      "MIDICCToCVInterface": {
+        "added": 2,
+        "lastAdded": 1708039344.4485309
+      },
+      "MIDIToCVInterface": {
+        "added": 9,
+        "lastAdded": 1708715031.5634458
+      },
+      "MIDITriggerToCVInterface": {
+        "added": 1,
+        "lastAdded": 1707857675.7657769
+      }
+    },
+    "CosineKitty-Sapphire": {
+      "TubeUnit": {
+        "added": 1,
+        "lastAdded": 1707645536.9921539
+      }
+    },
+    "CountModula": {
+      "Arpeggiator": {
+        "added": 1,
+        "lastAdded": 1707805493.9892919
+      },
+      "ClockDivider": {
+        "added": 1,
+        "lastAdded": 1707806099.3737979
+      },
+      "Euclid": {
+        "added": 2,
+        "lastAdded": 1707698282.981813
+      },
+      "EventTimer2": {
+        "added": 1,
+        "lastAdded": 1707626912.8497779
+      },
+      "GateSequencer16": {
+        "added": 1,
+        "lastAdded": 1708634408.2440848
+      },
+      "MultiStepSequencer": {
+        "added": 2,
+        "lastAdded": 1707790506.477634
+      },
+      "Oscilloscope": {
+        "added": 3,
+        "lastAdded": 1707956886.051616
+      },
+      "PolyVCSwitch": {
+        "added": 2,
+        "lastAdded": 1707772960.066011
+      },
+      "RandomAccessSwitch81": {
+        "added": 2,
+        "lastAdded": 1708226954.297576
+      },
+      "Switch2": {
+        "added": 1,
+        "lastAdded": 1707773090.0706539
+      },
+      "Switch8To1": {
+        "added": 1,
+        "lastAdded": 1707942850.6160629
+      },
+      "TriggerSequencer16": {
+        "added": 1,
+        "lastAdded": 1708490016.7873359
+      },
+      "TriggerSequencer8": {
+        "added": 1,
+        "lastAdded": 1707113963.5343759
+      }
+    },
+    "DHE-Modules": {
+      "Sequencizer8": {
+        "added": 2,
+        "lastAdded": 1707627790.8531618
+      }
+    },
+    "Dintree-Virtual": {
+      "V103-Reverb_Delay": {
+        "added": 1,
+        "lastAdded": 1708377263.347065
+      }
+    },
+    "DrumKit": {
+      "CR78": {
+        "added": 3,
+        "lastAdded": 1708027961.4930499
+      },
+      "ClosedHiHat": {
+        "added": 5,
+        "lastAdded": 1708634661.2053769
+      },
+      "OpenHiHat": {
+        "added": 3,
+        "lastAdded": 1708634688.2081928
+      },
+      "Sequencer": {
+        "added": 4,
+        "lastAdded": 1708388894.93133
+      },
+      "SnareDrumN": {
+        "added": 3,
+        "lastAdded": 1708640080.6267099
+      },
+      "SyntheticBassDrum": {
+        "added": 2,
+        "lastAdded": 1707687134.9390559
+      },
+      "Tomi": {
+        "added": 1,
+        "lastAdded": 1707687156.780462
+      }
+    },
+    "ESeries": {
+      "E340": {
+        "added": 2,
+        "lastAdded": 1708381115.949425
+      }
+    },
+    "Entrian-Free": {
+      "Player-Melody": {
+        "added": 1,
+        "lastAdded": 1707688741.278847
+      }
+    },
+    "EucQuant": {
+      "EdoQuant": {
+        "added": 1,
+        "lastAdded": 1708488088.121357
+      }
+    },
+    "FLAG-Free": {
+      "Prodigal-Son": {
+        "added": 1,
+        "lastAdded": 1707807229.0010228
+      }
+    },
+    "Falcon": {
+      "ClockSpacer": {
+        "added": 5,
+        "lastAdded": 1708641659.7775929
+      }
+    },
+    "FrozenWasteland": {
+      "BPMLFO": {
+        "added": 1,
+        "lastAdded": 1707800777.6522069
+      },
+      "DrunkenRampage": {
+        "added": 2,
+        "lastAdded": 1708375496.583786
+      },
+      "FillingStation": {
+        "added": 2,
+        "lastAdded": 1708375016.9607
+      },
+      "JustAPhaser": {
+        "added": 1,
+        "lastAdded": 1708062599.226655
+      },
+      "LissajousLFO": {
+        "added": 1,
+        "lastAdded": 1707794249.6846559
+      },
+      "MidiRecorder": {
+        "added": 2,
+        "lastAdded": 1708375050.261544
+      },
+      "PortlandWeather": {
+        "added": 3,
+        "lastAdded": 1708383917.527689
+      },
+      "ProbablyNote": {
+        "added": 2,
+        "lastAdded": 1708386659.282594
+      },
+      "ProbablyNoteBP": {
+        "added": 1,
+        "lastAdded": 1708375234.603092
+      },
+      "ProbablyNoteMN": {
+        "added": 1,
+        "lastAdded": 1708374805.9521959
+      },
+      "QuadAlgorithmicRhythm": {
+        "added": 1,
+        "lastAdded": 1708375296.065685
+      },
+      "RouletteLFO": {
+        "added": 2,
+        "lastAdded": 1707794088.3301818
+      },
+      "SeedsOfChangeGateExpander": {
+        "added": 1,
+        "lastAdded": 1707864799.4384189
+      },
+      "SeriouslySlowEG": {
+        "added": 2,
+        "lastAdded": 1707858115.3322239
+      },
+      "SeriouslySlowLFO": {
+        "added": 3,
+        "lastAdded": 1707956051.2262909
+      },
+      "SliceOfLife": {
+        "added": 2,
+        "lastAdded": 1708377679.774648
+      },
+      "TheGardener": {
+        "added": 1,
+        "lastAdded": 1707690732.2689569
+      }
+    },
+    "Fundamental": {
+      "8vert": {
+        "added": 4,
+        "lastAdded": 1708488196.6300168
+      },
+      "ADSR": {
+        "added": 19,
+        "lastAdded": 1708657915.092978
+      },
+      "Delay": {
+        "added": 3,
+        "lastAdded": 1708640742.7934899
+      },
+      "Gates": {
+        "added": 15,
+        "lastAdded": 1708495742.4691758
+      },
+      "LFO": {
+        "added": 34,
+        "lastAdded": 1708393837.8809769
+      },
+      "LFO2": {
+        "added": 2,
+        "lastAdded": 1707801576.0910809
+      },
+      "Merge": {
+        "added": 15,
+        "lastAdded": 1708661200.9612079
+      },
+      "Mixer": {
+        "added": 9,
+        "lastAdded": 1708649331.407573
+      },
+      "Mult": {
+        "added": 4,
+        "lastAdded": 1707870190.9080029
+      },
+      "Noise": {
+        "added": 8,
+        "lastAdded": 1708637686.566226
+      },
+      "Octave": {
+        "added": 15,
+        "lastAdded": 1708717084.907403
+      },
+      "Process": {
+        "added": 1,
+        "lastAdded": 1707802756.6507709
+      },
+      "Pulses": {
+        "added": 1,
+        "lastAdded": 1707622943.487736
+      },
+      "Push": {
+        "added": 6,
+        "lastAdded": 1708062915.2664719
+      },
+      "Quantizer": {
+        "added": 9,
+        "lastAdded": 1708487716.8315449
+      },
+      "Random": {
+        "added": 6,
+        "lastAdded": 1708488301.8919258
+      },
+      "RandomValues": {
+        "added": 2,
+        "lastAdded": 1708226892.1241999
+      },
+      "Rescale": {
+        "added": 2,
+        "lastAdded": 1708063432.993315
+      },
+      "SEQ3": {
+        "added": 4,
+        "lastAdded": 1708227221.3522379
+      },
+      "SHASR": {
+        "added": 1,
+        "lastAdded": 1708486455.504904
+      },
+      "Scope": {
+        "added": 6,
+        "lastAdded": 1708548487.986167
+      },
+      "SequentialSwitch1": {
+        "added": 2,
+        "lastAdded": 1707942967.786664
+      },
+      "SequentialSwitch2": {
+        "added": 2,
+        "lastAdded": 1707624720.9009628
+      },
+      "Split": {
+        "added": 2,
+        "lastAdded": 1707802475.5416729
+      },
+      "VCA-1": {
+        "added": 18,
+        "lastAdded": 1708637734.920517
+      },
+      "VCF": {
+        "added": 8,
+        "lastAdded": 1708638031.6459069
+      },
+      "VCMixer": {
+        "added": 14,
+        "lastAdded": 1708386827.6853619
+      },
+      "VCO": {
+        "added": 12,
+        "lastAdded": 1708628097.399111
+      },
+      "VCO2": {
+        "added": 3,
+        "lastAdded": 1707810791.6446519
+      }
+    },
+    "Geodesics": {
+      "Energy": {
+        "added": 1,
+        "lastAdded": 1707941732.3036849
+      },
+      "Entropia": {
+        "added": 1,
+        "lastAdded": 1708379816.175431
+      }
+    },
+    "GrandeModular": {
+      "LFO3": {
+        "added": 2,
+        "lastAdded": 1707946777.808409
+      },
+      "LFO4": {
+        "added": 1,
+        "lastAdded": 1707946790.6124089
+      },
+      "Push": {
+        "added": 1,
+        "lastAdded": 1707772969.2260249
+      },
+      "Tails4": {
+        "added": 3,
+        "lastAdded": 1707869717.4603169
+      }
+    },
+    "Grayscale": {
+      "Permutation18": {
+        "added": 1,
+        "lastAdded": 1708227191.0282259
+      },
+      "Supercell": {
+        "added": 1,
+        "lastAdded": 1708553961.7064838
+      }
+    },
+    "HamptonHarmonics": {
+      "Arp": {
+        "added": 1,
+        "lastAdded": 1708392516.6911108
+      }
+    },
+    "HetrickCV": {
+      "PhaseDrivenSequencer32": {
+        "added": 2,
+        "lastAdded": 1707942648.0165548
+      },
+      "PhasorGen": {
+        "added": 1,
+        "lastAdded": 1707941117.5419168
+      },
+      "PhasorSwing": {
+        "added": 1,
+        "lastAdded": 1707941351.2133498
+      },
+      "PhasorToClock": {
+        "added": 1,
+        "lastAdded": 1707941094.5288339
+      },
+      "PhasorToLFO": {
+        "added": 1,
+        "lastAdded": 1707794367.9042749
+      }
+    },
+    "Hora-Mixers": {
+      "StereoMixer-8-2": {
+        "added": 2,
+        "lastAdded": 1707684873.1264238
+      }
+    },
+    "Hora-VCO_VCF_VCA_Free": {
+      "Vector-Synth": {
+        "added": 1,
+        "lastAdded": 1708228280.945575
+      }
+    },
+    "Hora-treasureFree": {
+      "SnareDrum-VCV": {
+        "added": 4,
+        "lastAdded": 1708723686.6059399
+      }
+    },
+    "ImpromptuModular": {
+      "Adaptive-Quantizer": {
+        "added": 1,
+        "lastAdded": 1708716017.462369
+      },
+      "Blank-Panel": {
+        "added": 2,
+        "lastAdded": 1708725672.0496268
+      },
+      "Chord-Key": {
+        "added": 4,
+        "lastAdded": 1708392919.621222
+      },
+      "Clocked": {
+        "added": 13,
+        "lastAdded": 1708627489.251601
+      },
+      "Clocked-Clkd": {
+        "added": 6,
+        "lastAdded": 1708647764.7228909
+      },
+      "Clocked-Expander": {
+        "added": 1,
+        "lastAdded": 1708025640.4842398
+      },
+      "Cv-Pad": {
+        "added": 1,
+        "lastAdded": 1708715905.474612
+      },
+      "Foundry": {
+        "added": 3,
+        "lastAdded": 1708717913.5360229
+      },
+      "Foundry-Expander": {
+        "added": 1,
+        "lastAdded": 1708630452.607785
+      },
+      "Phrase-Seq-16": {
+        "added": 1,
+        "lastAdded": 1708385912.3810198
+      },
+      "Phrase-Seq-32": {
+        "added": 2,
+        "lastAdded": 1708387208.7006979
+      },
+      "Semi-ModularSynth": {
+        "added": 3,
+        "lastAdded": 1707867388.8333929
+      },
+      "Write-Seq-32": {
+        "added": 1,
+        "lastAdded": 1708375532.6123919
+      }
+    },
+    "InfrasonicAudio": {
+      "WarpCore": {
+        "added": 2,
+        "lastAdded": 1708379053.0019429
+      }
+    },
+    "InputSwitch": {
+      "ClockSpacer": {
+        "added": 2,
+        "lastAdded": 1708545190.0840769
+      },
+      "InputSwitch": {
+        "added": 2,
+        "lastAdded": 1708468399.8430459
+      }
+    },
+    "JPFree": {
+      "ThreeTrack": {
+        "added": 1,
+        "lastAdded": 1707192916.358726
+      }
+    },
+    "JW-Modules": {
+      "0Cat": {
+        "added": 1,
+        "lastAdded": 1708725532.5668349
+      },
+      "BlankPanel_LG": {
+        "added": 1,
+        "lastAdded": 1708660558.971406
+      },
+      "BlankPanel_SM": {
+        "added": 1,
+        "lastAdded": 1708558030.776608
+      },
+      "CoolBreeze": {
+        "added": 1,
+        "lastAdded": 1708725143.611722
+      },
+      "FullScope": {
+        "added": 1,
+        "lastAdded": 1708661508.7461269
+      },
+      "GridSeq": {
+        "added": 1,
+        "lastAdded": 1707103413.510998
+      },
+      "Quantizer": {
+        "added": 2,
+        "lastAdded": 1707104053.6568758
+      },
+      "SimpleClock": {
+        "added": 2,
+        "lastAdded": 1707192947.816808
+      },
+      "Tree": {
+        "added": 2,
+        "lastAdded": 1708725230.208451
+      }
+    },
+    "LifeFormModular": {
+      "PercussiveVibration": {
+        "added": 1,
+        "lastAdded": 1708026249.433785
+      }
+    },
+    "LittleUtils": {
+      "Button": {
+        "added": 2,
+        "lastAdded": 1708550106.9276049
+      },
+      "TeleportIn": {
+        "added": 1,
+        "lastAdded": 1707773808.270673
+      },
+      "TeleportOut": {
+        "added": 1,
+        "lastAdded": 1707773761.2665188
+      }
+    },
+    "ML_modules": {
+      "Arpeggiator": {
+        "added": 1,
+        "lastAdded": 1707809049.124176
+      }
+    },
+    "MUS-X": {
+      "Delay": {
+        "added": 1,
+        "lastAdded": 1708557217.215363
+      },
+      "Oscillators": {
+        "added": 1,
+        "lastAdded": 1708379473.632277
+      }
+    },
+    "MindMeldModular": {
+      "AuxExpander": {
+        "added": 3,
+        "lastAdded": 1708646996.9977789
+      },
+      "AuxExpanderJr": {
+        "added": 8,
+        "lastAdded": 1708646926.3764629
+      },
+      "MixMaster": {
+        "added": 2,
+        "lastAdded": 1708646993.6833239
+      },
+      "MixMasterJr": {
+        "added": 8,
+        "lastAdded": 1708646919.2373509
+      },
+      "PatchMasterBlank": {
+        "added": 1,
+        "lastAdded": 1708642460.301882
+      },
+      "ShapeMaster": {
+        "added": 1,
+        "lastAdded": 1708378251.764055
+      }
+    },
+    "NANOModules": {
+      "PerformanceMixer": {
+        "added": 1,
+        "lastAdded": 1707788364.935169
+      }
+    },
+    "NOI": {
+      "Sinensis": {
+        "added": 1,
+        "lastAdded": 1707642613.856384
+      }
+    },
+    "Noise86": {
+      "MarkovDrummer": {
+        "added": 1,
+        "lastAdded": 1707862455.4619639
+      }
+    },
+    "NonlinearCircuits": {
+      "SlothInertia": {
+        "added": 2,
+        "lastAdded": 1707628824.1744359
+      },
+      "SlothTorpor": {
+        "added": 1,
+        "lastAdded": 1707633804.292835
+      },
+      "TripleSloth": {
+        "added": 3,
+        "lastAdded": 1707641348.5949528
+      }
+    },
+    "Noumenal-B": {
+      "HUB": {
+        "added": 1,
+        "lastAdded": 1707800377.9600699
+      }
+    },
+    "Ohmer": {
+      "OhmerBlank8": {
+        "added": 1,
+        "lastAdded": 1708028710.3536708
+      }
+    },
+    "OrangeLine": {
+      "Mother": {
+        "added": 1,
+        "lastAdded": 1708487949.1646729
+      }
+    },
+    "PS-PurrSoftware": {
+      "ModeScaleProgressions": {
+        "added": 2,
+        "lastAdded": 1707865680.418915
+      }
+    },
+    "PatchableDevices": {
+      "NonlinearIntegrator": {
+        "added": 1,
+        "lastAdded": 1707794477.737483
+      },
+      "WindowGenerators": {
+        "added": 1,
+        "lastAdded": 1707941847.979624
+      }
+    },
+    "PathSet": {
+      "AstroVibe": {
+        "added": 2,
+        "lastAdded": 1708659261.723321
+      },
+      "GlassPane": {
+        "added": 1,
+        "lastAdded": 1707626711.482039
+      },
+      "ShiftyMod": {
+        "added": 1,
+        "lastAdded": 1707627478.4324329
+      }
+    },
+    "PhoturiElectronics": {
+      "Cricketter": {
+        "added": 1,
+        "lastAdded": 1707697681.853925
+      }
+    },
+    "RPJ": {
+      "PigeonPlink": {
+        "added": 1,
+        "lastAdded": 1708488708.0953729
+      }
+    },
+    "RPJVisualizer": {
+      "LFMEmbedded": {
+        "added": 9,
+        "lastAdded": 1708725213.5898838
+      },
+      "LFMFull": {
+        "added": 2,
+        "lastAdded": 1707777712.7886739
+      }
+    },
+    "Rigatoni": {
+      "RigatoniModular-Loom": {
+        "added": 1,
+        "lastAdded": 1707697959.1500819
+      }
+    },
+    "SequelSequencers": {
+      "James": {
+        "added": 2,
+        "lastAdded": 1708026181.8211
+      }
+    },
+    "Sha-Bang-Modules": {
+      "Neutrinode": {
+        "added": 1,
+        "lastAdded": 1708025872.8842678
+      },
+      "StochSeq": {
+        "added": 1,
+        "lastAdded": 1708227521.93787
+      },
+      "Talea": {
+        "added": 1,
+        "lastAdded": 1708392252.337985
+      }
+    },
+    "SickoCV": {
+      "DrumPlayerXtra": {
+        "added": 1,
+        "lastAdded": 1708490570.8848028
+      },
+      "Wavetabler": {
+        "added": 1,
+        "lastAdded": 1708634760.243403
+      }
+    },
+    "Skylander": {
+      "NymphesControl": {
+        "added": 1,
+        "lastAdded": 1708394225.2417488
+      }
+    },
+    "Sparkette": {
+      "RGBMatrix16": {
+        "added": 1,
+        "lastAdded": 1708725199.3986449
+      }
+    },
+    "StochasticTelegraph": {
+      "BASICally": {
+        "added": 4,
+        "lastAdded": 1707939223.6634119
+      }
+    },
+    "StudioSixPlusOne": {
+      "Iverson": {
+        "added": 1,
+        "lastAdded": 1708025993.6675398
+      }
+    },
+    "SurgeXTRack": {
+      "SurgeXTDelay": {
+        "added": 10,
+        "lastAdded": 1708645792.2223339
+      },
+      "SurgeXTEGxVCA": {
+        "added": 5,
+        "lastAdded": 1708719737.919121
+      },
+      "SurgeXTFXChorus": {
+        "added": 1,
+        "lastAdded": 1707693290.4775698
+      },
+      "SurgeXTFXEnsemble": {
+        "added": 3,
+        "lastAdded": 1708389647.3843579
+      },
+      "SurgeXTFXPhaser": {
+        "added": 3,
+        "lastAdded": 1708378964.1984589
+      },
+      "SurgeXTFXReverb": {
+        "added": 2,
+        "lastAdded": 1707626475.079818
+      },
+      "SurgeXTFXReverb2": {
+        "added": 4,
+        "lastAdded": 1707863551.5702569
+      },
+      "SurgeXTFXTreeMonster": {
+        "added": 1,
+        "lastAdded": 1707693710.8138309
+      },
+      "SurgeXTLFO": {
+        "added": 1,
+        "lastAdded": 1707941862.289691
+      },
+      "SurgeXTMixer": {
+        "added": 1,
+        "lastAdded": 1707858584.758239
+      },
+      "SurgeXTMixerSlider": {
+        "added": 1,
+        "lastAdded": 1707623705.9383559
+      },
+      "SurgeXTOSCModern": {
+        "added": 2,
+        "lastAdded": 1707686185.5716579
+      },
+      "SurgeXTOSCString": {
+        "added": 4,
+        "lastAdded": 1707792063.03441
+      },
+      "SurgeXTOSCTwist": {
+        "added": 2,
+        "lastAdded": 1707804931.2167919
+      },
+      "SurgeXTOSCWavetable": {
+        "added": 1,
+        "lastAdded": 1708642772.876164
+      },
+      "SurgeXTOSCWindow": {
+        "added": 1,
+        "lastAdded": 1707692281.7635839
+      },
+      "SurgeXTQuadAD": {
+        "added": 1,
+        "lastAdded": 1707692301.9501669
+      },
+      "SurgeXTQuadLFO": {
+        "added": 5,
+        "lastAdded": 1708394881.6464329
+      },
+      "SurgeXTUnisonHelper": {
+        "added": 1,
+        "lastAdded": 1707788615.385711
+      },
+      "SurgeXTVCF": {
+        "added": 7,
+        "lastAdded": 1708038712.932678
+      },
+      "SurgeXTWaveshaper": {
+        "added": 1,
+        "lastAdded": 1707693391.896152
+      }
+    },
+    "TMT": {
+      "Calendar": {
+        "added": 1,
+        "lastAdded": 1707794399.52159
+      }
+    },
+    "Tonecarver": {
+      "Traveler": {
+        "added": 1,
+        "lastAdded": 1708375961.809561
+      }
+    },
+    "VCV-Recorder": {
+      "Recorder": {
+        "added": 2,
+        "lastAdded": 1707714355.9666419
+      }
+    },
+    "Valley": {
+      "Dexter": {
+        "added": 1,
+        "lastAdded": 1707105151.354178
+      },
+      "Interzone": {
+        "added": 2,
+        "lastAdded": 1708227562.2760148
+      },
+      "Plateau": {
+        "added": 17,
+        "lastAdded": 1708627416.314455
+      },
+      "Terrorform": {
+        "added": 4,
+        "lastAdded": 1708394052.4964619
+      }
+    },
+    "Venom": {
+      "CloneMerge": {
+        "added": 2,
+        "lastAdded": 1707623986.6132169
+      },
+      "Mix4Stereo": {
+        "added": 1,
+        "lastAdded": 1708555595.9150579
+      },
+      "MixOffset": {
+        "added": 2,
+        "lastAdded": 1708556063.122509
+      },
+      "RhythmExplorer": {
+        "added": 1,
+        "lastAdded": 1707627591.4322679
+      },
+      "VCAMix4": {
+        "added": 1,
+        "lastAdded": 1707189886.5084279
+      }
+    },
+    "VultModulesFree": {
+      "Basal": {
+        "added": 3,
+        "lastAdded": 1708628787.5206048
+      },
+      "BlackPanel": {
+        "added": 1,
+        "lastAdded": 1707862193.6633749
+      },
+      "BlackPanelBig": {
+        "added": 2,
+        "lastAdded": 1708725663.8259289
+      },
+      "BlackPanelSmall": {
+        "added": 3,
+        "lastAdded": 1708558001.9658539
+      },
+      "Bleak": {
+        "added": 6,
+        "lastAdded": 1708658084.6680388
+      },
+      "Boomstick": {
+        "added": 4,
+        "lastAdded": 1708657364.065366
+      },
+      "Caudal": {
+        "added": 2,
+        "lastAdded": 1708723079.7860839
+      },
+      "Decline": {
+        "added": 1,
+        "lastAdded": 1708660947.6386259
+      },
+      "Disjoint": {
+        "added": 1,
+        "lastAdded": 1708393498.401319
+      },
+      "Flux": {
+        "added": 1,
+        "lastAdded": 1707860103.0481839
+      },
+      "Fuser": {
+        "added": 2,
+        "lastAdded": 1708721943.0637338
+      },
+      "Jorus": {
+        "added": 6,
+        "lastAdded": 1708722429.5281758
+      },
+      "Lateralus": {
+        "added": 1,
+        "lastAdded": 1708387471.4430439
+      },
+      "Leakage": {
+        "added": 2,
+        "lastAdded": 1708717261.7965078
+      },
+      "Nopskate": {
+        "added": 2,
+        "lastAdded": 1708716891.771013
+      },
+      "Opulus": {
+        "added": 5,
+        "lastAdded": 1708718798.972656
+      },
+      "Punch": {
+        "added": 6,
+        "lastAdded": 1708716289.15872
+      },
+      "Slap": {
+        "added": 2,
+        "lastAdded": 1708722327.7210119
+      },
+      "Spank": {
+        "added": 1,
+        "lastAdded": 1707104007.3462079
+      },
+      "Splie": {
+        "added": 1,
+        "lastAdded": 1707860834.248524
+      },
+      "Stabile": {
+        "added": 1,
+        "lastAdded": 1708393767.427624
+      },
+      "Tangents": {
+        "added": 9,
+        "lastAdded": 1708719453.881202
+      },
+      "Trummor": {
+        "added": 3,
+        "lastAdded": 1708635241.3658929
+      },
+      "Trummor2": {
+        "added": 3,
+        "lastAdded": 1708490032.7977588
+      },
+      "TrummorFM": {
+        "added": 6,
+        "lastAdded": 1708721427.948319
+      },
+      "Unstabile": {
+        "added": 2,
+        "lastAdded": 1708716244.0748019
+      },
+      "UtilKnobs": {
+        "added": 1,
+        "lastAdded": 1707860529.500689
+      },
+      "Vessek": {
+        "added": 4,
+        "lastAdded": 1708716159.8109589
+      },
+      "Vultari": {
+        "added": 1,
+        "lastAdded": 1707860514.8297319
+      },
+      "Wolv": {
+        "added": 2,
+        "lastAdded": 1708388281.552881
+      }
+    },
+    "alefsbits": {
+      "fibb": {
+        "added": 1,
+        "lastAdded": 1707626832.9236748
+      }
+    },
+    "alto777_LFSR": {
+      "Amuse": {
+        "added": 1,
+        "lastAdded": 1708373093.5903299
+      },
+      "Psychtone": {
+        "added": 1,
+        "lastAdded": 1708373456.8425829
+      }
+    },
+    "az": {
+      "modulo": {
+        "added": 2,
+        "lastAdded": 1707864173.3504179
+      }
+    },
+    "cf": {
+      "DAVE": {
+        "added": 1,
+        "lastAdded": 1708028554.3849289
+      },
+      "LABEL": {
+        "added": 2,
+        "lastAdded": 1708651889.6952019
+      }
+    },
+    "computerscare": {
+      "computerscare-foly-pace": {
+        "added": 1,
+        "lastAdded": 1708725551.1269619
+      },
+      "computerscare-stoly-fick-pigure": {
+        "added": 1,
+        "lastAdded": 1708724892.640089
+      }
+    },
+    "cvly": {
+      "ntrvlc": {
+        "added": 1,
+        "lastAdded": 1708394498.2481899
+      },
+      "vbrt": {
+        "added": 1,
+        "lastAdded": 1707627797.3704569
+      }
+    },
+    "dBiz": {
+      "TROSC": {
+        "added": 1,
+        "lastAdded": 1708376675.861167
+      }
+    },
+    "dawnbree": {
+      "notepad": {
+        "added": 2,
+        "lastAdded": 1708553492.057282
+      }
+    },
+    "dbRackModules": {
+      "AUX": {
+        "added": 1,
+        "lastAdded": 1707623727.7724569
+      },
+      "GeneticSuperTerrain": {
+        "added": 1,
+        "lastAdded": 1708394072.389286
+      },
+      "Osc1": {
+        "added": 1,
+        "lastAdded": 1708378612.200309
+      },
+      "Osc4": {
+        "added": 1,
+        "lastAdded": 1707623581.3360438
+      },
+      "RTrig": {
+        "added": 2,
+        "lastAdded": 1708379760.8728368
+      },
+      "SuperLFO": {
+        "added": 1,
+        "lastAdded": 1707941525.771668
+      }
+    },
+    "dbRackSequencer": {
+      "CYC": {
+        "added": 1,
+        "lastAdded": 1708381065.4697459
+      },
+      "N3": {
+        "added": 1,
+        "lastAdded": 1707625379.15799
+      },
+      "TXVI": {
+        "added": 3,
+        "lastAdded": 1707864774.6405618
+      }
+    },
+    "fruitsofkarma": {
+      "CellularAuto": {
+        "added": 3,
+        "lastAdded": 1707800519.6706688
+      },
+      "ColoredGlass": {
+        "added": 1,
+        "lastAdded": 1708376644.133498
+      }
+    },
+    "h4n4-modules": {
+      "xen-qnt": {
+        "added": 1,
+        "lastAdded": 1708487206.0491049
+      }
+    },
+    "mscHack": {
+      "ARP700": {
+        "added": 1,
+        "lastAdded": 1707186938.4593849
+      },
+      "MasterClockx4": {
+        "added": 1,
+        "lastAdded": 1708540650.57529
+      },
+      "TriadSeq2": {
+        "added": 1,
+        "lastAdded": 1708227500.476274
+      }
+    },
+    "rcm": {
+      "rcm-pianoroll": {
+        "added": 1,
+        "lastAdded": 1708374189.867528
+      }
+    },
+    "scanner-darkly-collection-one": {
+      "SDOrcasHeart": {
+        "added": 2,
+        "lastAdded": 1707863696.7906339
+      }
+    },
+    "squinktronix-plug1": {
+      "sqh-arpeggiator1": {
+        "added": 1,
+        "lastAdded": 1707796379.3752558
+      }
+    },
+    "squinkylabs-plug1": {
+      "squinkylabs-filt": {
+        "added": 1,
+        "lastAdded": 1708378176.003001
+      },
+      "squinkylabs-sequencer": {
+        "added": 1,
+        "lastAdded": 1707110583.0770888
+      }
+    },
+    "trowaSoft": {
+      "multiWave": {
+        "added": 1,
+        "lastAdded": 1708024024.1821289
+      },
+      "trigSeq": {
+        "added": 1,
+        "lastAdded": 1707801276.3497379
+      },
+      "tsBlank": {
+        "added": 1,
+        "lastAdded": 1708028682.6842959
+      }
+    },
+    "unless_modules": {
+      "cantor": {
+        "added": 1,
+        "lastAdded": 1708373798.6194689
+      },
+      "markov": {
+        "added": 1,
+        "lastAdded": 1708373833.1923389
+      },
+      "piong": {
+        "added": 1,
+        "lastAdded": 1708373950.3558328
+      }
+    },
+    "vanTies": {
+      "Ad": {
+        "added": 1,
+        "lastAdded": 1707800687.9506519
+      }
+    },
+    "voxglitch": {
+      "arpseq": {
+        "added": 1,
+        "lastAdded": 1707187552.386322
+      },
+      "digitalsequencer": {
+        "added": 1,
+        "lastAdded": 1707112204.654511
+      }
+    }
+  },
+  "moduleWhitelist": {
+    "21kHz": [
+      "kHzD_Inf",
+      "kHzPalmLoop",
+      "kHzTachyonEntangler"
+    ],
+    "3HR": [
+      "FM3HR",
+      "FMFILT3HR",
+      "GLTCH3HR",
+      "Repeat3hr"
+    ],
+    "ALMFree": [
+      "Beast",
+      "MCO",
+      "OAx2",
+      "Tangle"
+    ],
+    "AS": [
+      "BPMClock",
+      "KillGate",
+      "LaunchGate",
+      "Mixer8ch",
+      "SEQ16",
+      "Steps",
+      "SuperDriveFx",
+      "TriLFO",
+      "TriggersMKIII"
+    ],
+    "ASK": [
+      "rnsh"
+    ],
+    "AaronKarp-EarthTones": [
+      "PolarCV"
+    ],
+    "AaronStatic": [
+      "ChordCV",
+      "RandomNoteCV"
+    ],
+    "AetrionModular": [
+      "ChordVault"
+    ],
+    "Ahornberg": [
+      "MIDIOverAudio",
+      "MIDIPolyExpression",
+      "Metronome",
+      "TapeRecorder"
+    ],
+    "Airwin2Rack": [
+      "Airwin2Rack"
+    ],
+    "AlgoritmArte": [
+      "Clockkky",
+      "CyclicCA",
+      "HoldMeTight",
+      "MusiFrog",
+      "MusiMath",
+      "Planetz",
+      "Zefiro"
+    ],
+    "Alikins": [
+      "BigMuteButton",
+      "Reference",
+      "SpecificValue"
+    ],
+    "AlliewayAudio_Freebies": [
+      "chilly_cheese"
+    ],
+    "AlrightDevices": [
+      "Chronoblob2",
+      "T-Wrex",
+      "Zzzorb"
+    ],
+    "AmalgamatedHarmonics": [
+      "Arp31",
+      "Arp32",
+      "Bombe",
+      "Chord",
+      "Circle",
+      "Galaxy",
+      "Generative",
+      "Imp",
+      "Imperfect2",
+      "MuxDeMux",
+      "PolyProbe",
+      "PolyScope",
+      "PolyUtils",
+      "PolyVolt",
+      "Progress2",
+      "Ruckus",
+      "SLN",
+      "ScaleQuantizer2"
+    ],
+    "AudibleInstruments": [
+      "Blinds",
+      "Braids",
+      "Branches",
+      "Clouds",
+      "Elements",
+      "Frames",
+      "Kinks",
+      "Links",
+      "Marbles",
+      "Plaits",
+      "Rings",
+      "Ripples",
+      "Shades",
+      "Shelves",
+      "Stages",
+      "Streams",
+      "Tides",
+      "Tides2",
+      "Veils",
+      "Warps"
+    ],
+    "AuntyLangtonsFree": [
+      "MusicalAnt"
+    ],
+    "Autinn": [
+      "Chord",
+      "Distortion",
+      "Melody",
+      "Mixer6",
+      "Non",
+      "Overdrive",
+      "TriBand"
+    ],
+    "Axioma": [
+      "Ikeda",
+      "TheBifurcator"
+    ],
+    "BaconMusic": [
+      "HarMoNee",
+      "LintBuddy",
+      "LuckyHold",
+      "PolyGnome"
+    ],
+    "Bastl": [
+      "Kompas"
+    ],
+    "Befaco": [
+      "ABC",
+      "ADSR",
+      "ChoppingKinky",
+      "DualAtenuverter",
+      "EvenVCO",
+      "HexmixVCA",
+      "Kickall",
+      "Mex",
+      "Mixer",
+      "Morphader",
+      "MotionMTR",
+      "Muxlicer",
+      "NoisePlethora",
+      "Percall",
+      "PonyVCO",
+      "Rampage",
+      "STMix",
+      "SamplingModulator",
+      "SlewLimiter",
+      "SpringReverb",
+      "StereoStrip"
+    ],
+    "Bidoo": [
+      "BAFIS",
+      "BanCau",
+      "ChUTE",
+      "ENCORE",
+      "ENCORE-Expander",
+      "HCTIP",
+      "MAGMA",
+      "MOiRE",
+      "MU",
+      "OAI",
+      "PILOT",
+      "POUPRE",
+      "RATEAU",
+      "REI",
+      "SPORE",
+      "VOID",
+      "ZOUMAI",
+      "ZOUMAI-Expander",
+      "antN",
+      "bordL",
+      "dFUZE",
+      "dTrOY",
+      "dUKe",
+      "eDsaroS",
+      "fLAME",
+      "lIMbO",
+      "liMonADe",
+      "mINIBar",
+      "rabBIT",
+      "tOCAnTe"
+    ],
+    "Biset": [
+      "Biset-Blank",
+      "Biset-Gbu",
+      "Biset-Pkm",
+      "Biset-Regex",
+      "Biset-Regex-Condensed",
+      "Biset-Regex-Exp",
+      "Biset-Segfault",
+      "Biset-Tracker",
+      "Biset-Tracker-Clock",
+      "Biset-Tracker-Control",
+      "Biset-Tracker-Drum",
+      "Biset-Tracker-Phase",
+      "Biset-Tracker-Quant",
+      "Biset-Tracker-State",
+      "Biset-Tracker-Synth",
+      "Biset-Tree"
+    ],
+    "Blamsoft-XFXF35": [
+      "Blamsoft-XFXF35"
+    ],
+    "Blamsoft-XFXReverb": [
+      "Blamsoft-XFXReverb"
+    ],
+    "Blamsoft-XFXWave": [
+      "Blamsoft-XFXWave"
+    ],
+    "Bogaudio": [
+      "Bogaudio-AD",
+      "Bogaudio-ADSR",
+      "Bogaudio-AMRM",
+      "Bogaudio-ASR",
+      "Bogaudio-Additator",
+      "Bogaudio-AddrSeq",
+      "Bogaudio-AddrSeqX",
+      "Bogaudio-Analyzer",
+      "Bogaudio-Arp",
+      "Bogaudio-Assign",
+      "Bogaudio-Blank3",
+      "Bogaudio-Bool",
+      "Bogaudio-CVD",
+      "Bogaudio-Chirp",
+      "Bogaudio-Clpr",
+      "Bogaudio-Cmp",
+      "Bogaudio-CmpDist",
+      "Bogaudio-DADSRH",
+      "Bogaudio-DADSRHPlus",
+      "Bogaudio-DGate",
+      "Bogaudio-Detune",
+      "Bogaudio-EQ",
+      "Bogaudio-EQS",
+      "Bogaudio-Edge",
+      "Bogaudio-EightFO",
+      "Bogaudio-EightOne",
+      "Bogaudio-FFB",
+      "Bogaudio-FMOp",
+      "Bogaudio-FlipFlop",
+      "Bogaudio-Follow",
+      "Bogaudio-FourFO",
+      "Bogaudio-FourMan",
+      "Bogaudio-Inv",
+      "Bogaudio-LFO",
+      "Bogaudio-LLFO",
+      "Bogaudio-LLPG",
+      "Bogaudio-LPG",
+      "Bogaudio-LVCF",
+      "Bogaudio-LVCO",
+      "Bogaudio-Lgsw",
+      "Bogaudio-Lmtr",
+      "Bogaudio-Manual",
+      "Bogaudio-Matrix18",
+      "Bogaudio-Matrix44",
+      "Bogaudio-Matrix44Cvm",
+      "Bogaudio-Matrix81",
+      "Bogaudio-Matrix88",
+      "Bogaudio-Matrix88Cv",
+      "Bogaudio-Matrix88M",
+      "Bogaudio-MegaGate",
+      "Bogaudio-Mix1",
+      "Bogaudio-Mix2",
+      "Bogaudio-Mix4",
+      "Bogaudio-Mix4x",
+      "Bogaudio-Mix8",
+      "Bogaudio-Mix8x",
+      "Bogaudio-Mono",
+      "Bogaudio-Mult",
+      "Bogaudio-Mumix",
+      "Bogaudio-Mute8",
+      "Bogaudio-Noise",
+      "Bogaudio-Nsgt",
+      "Bogaudio-Offset",
+      "Bogaudio-OneEight",
+      "Bogaudio-PEQ",
+      "Bogaudio-PEQ14",
+      "Bogaudio-PEQ14XF",
+      "Bogaudio-PEQ6",
+      "Bogaudio-PEQ6XF",
+      "Bogaudio-Pan",
+      "Bogaudio-Pgmr",
+      "Bogaudio-PgmrX",
+      "Bogaudio-PolyCon",
+      "Bogaudio-PolyCon8",
+      "Bogaudio-PolyMult",
+      "Bogaudio-PolyOff16",
+      "Bogaudio-PolyOff8",
+      "Bogaudio-Pressor",
+      "Bogaudio-Pulse",
+      "Bogaudio-RGate",
+      "Bogaudio-Ranalyzer",
+      "Bogaudio-Reftone",
+      "Bogaudio-SampleHold",
+      "Bogaudio-Shaper",
+      "Bogaudio-ShaperPlus",
+      "Bogaudio-Sine",
+      "Bogaudio-Slew",
+      "Bogaudio-Stack",
+      "Bogaudio-Sums",
+      "Bogaudio-Switch",
+      "Bogaudio-Switch1616",
+      "Bogaudio-Switch18",
+      "Bogaudio-Switch44",
+      "Bogaudio-Switch81",
+      "Bogaudio-Switch88",
+      "Bogaudio-UMix",
+      "Bogaudio-Unison",
+      "Bogaudio-VCA",
+      "Bogaudio-VCAmp",
+      "Bogaudio-VCF",
+      "Bogaudio-VCM",
+      "Bogaudio-VCO",
+      "Bogaudio-VU",
+      "Bogaudio-Velo",
+      "Bogaudio-Vish",
+      "Bogaudio-Walk",
+      "Bogaudio-Walk2",
+      "Bogaudio-XCO",
+      "Bogaudio-XFade"
+    ],
+    "CatroModulo": [
+      "CatroModulo_CM-3",
+      "CatroModulo_CM-4"
+    ],
+    "Chinenual-VCV": [
+      "DrumMap",
+      "Inv",
+      "MIDIRecorder",
+      "MIDIRecorderCC",
+      "NoteMeter",
+      "Tint"
+    ],
+    "Coffee": [
+      "Between",
+      "Fork",
+      "Fork2",
+      "HiLo",
+      "Juice",
+      "Set2",
+      "Some",
+      "Some3",
+      "Tap",
+      "Together",
+      "Travel",
+      "Twinned2"
+    ],
+    "Comfortzone": [
+      "tzfmlead"
+    ],
+    "Core": true,
+    "CosineKitty-Sapphire": [
+      "Elastika",
+      "Frolic",
+      "Glee",
+      "Tin",
+      "Tricorder",
+      "TubeUnit"
+    ],
+    "CountModula": [
+      "Arpeggiator",
+      "BinaryComparator",
+      "BinarySequencer",
+      "BurstGenerator",
+      "BurstGenerator64",
+      "BusRoute2",
+      "Carousel",
+      "ClockDivider",
+      "Euclid",
+      "EuclidExpanderCV",
+      "EventTimer",
+      "EventTimer2",
+      "GateSequencer16",
+      "GateSequencer16b",
+      "GateSequencer8",
+      "Megalomaniac",
+      "Mult",
+      "MultiStepSequencer",
+      "NibbleTriggerSequencer",
+      "OctetTriggerSequencer",
+      "OctetTriggerSequencerCVExpander",
+      "OctetTriggerSequencerGateExpander",
+      "Oscilloscope",
+      "PolyChances",
+      "PolyGateModifier",
+      "PolyVCSwitch",
+      "PolyrhythmicGeneratorMkII",
+      "RandomAccessSwitch18",
+      "RandomAccessSwitch81",
+      "SampleAndHold2",
+      "SequenceEncoder",
+      "Sequencer16",
+      "Sequencer64",
+      "SequencerChannel16",
+      "SequencerExpanderCV8",
+      "SequencerGates16",
+      "SequencerTriggers16",
+      "ShiftRegister16",
+      "ShiftRegister32",
+      "SingleDFlipFlop",
+      "SingleSRFlipFlop",
+      "SingleTFlipFlop",
+      "Stack",
+      "StepSequencer8",
+      "Switch16To1",
+      "Switch1To16",
+      "Switch1To8",
+      "Switch2",
+      "Switch3",
+      "Switch4",
+      "Switch8To1",
+      "TriggerSequencer16",
+      "TriggerSequencer8"
+    ],
+    "CuteFoxModules": [
+      "IPQ"
+    ],
+    "DHE-Modules": [
+      "Scannibal16",
+      "Sequencizer16",
+      "Sequencizer4",
+      "Sequencizer8"
+    ],
+    "DanTModules": [
+      "BrightIdea",
+      "Chromagica",
+      "MoarCowbell",
+      "Nonaquant",
+      "Purfenator",
+      "TMNT"
+    ],
+    "Dintree-Virtual": [
+      "V103-Reverb_Delay",
+      "V218-SH-Clock-Noise"
+    ],
+    "DrumKit": [
+      "BassDrum9",
+      "CR78",
+      "ClosedHiHat",
+      "Gnome",
+      "OpenHiHat",
+      "Sequencer",
+      "SnareDrumN",
+      "SyntheticBassDrum",
+      "Tomi"
+    ],
+    "ESeries": [
+      "E340"
+    ],
+    "EnigmaCurry": [
+      "Latch",
+      "Transport"
+    ],
+    "Entrian-Free": [
+      "Player-Drummer",
+      "Player-Melody",
+      "Player-Timeline"
+    ],
+    "ErogenousTonesFree": [
+      "LEVIT8",
+      "VC8"
+    ],
+    "EucQuant": [
+      "EdoQuant"
+    ],
+    "Extratone": [
+      "Darwinism"
+    ],
+    "FLAG-Free": [
+      "Prince-Of-Perception",
+      "Prodigal-Son",
+      "Stems"
+    ],
+    "FehlerFabrik-Suite": [
+      "Botzinger",
+      "Nova"
+    ],
+    "FrozenWasteland": [
+      "BPMLFO",
+      "BPMLFO2",
+      "BPMLFOPhaseExpander",
+      "CDCSeriouslySlowLFO",
+      "DamianLillard",
+      "DrunkenRampage",
+      "EverlastingGlottalStopper",
+      "FillingStation",
+      "FormalDinner",
+      "HairPick",
+      "JustAPhaser",
+      "LissajousLFO",
+      "ManicCompression",
+      "ManicCompressionMB",
+      "MidiRecorder",
+      "Midichlorian",
+      "MrBlueSky",
+      "PNChordExpander",
+      "PNOctaveProbabilityExpander",
+      "PWAlgorithmicExpander",
+      "PWGridControlExpander",
+      "PWTapBreakoutExpander",
+      "PhasedLockedLoop",
+      "PortlandWeather",
+      "ProbablyNote",
+      "ProbablyNoteArabic",
+      "ProbablyNoteBP",
+      "ProbablyNoteMN",
+      "QARConditionalExpander",
+      "QARGridControlExpander",
+      "QARGrooveExpander",
+      "QARIrrationalityExpander",
+      "QARProbabilityExpander",
+      "QARWarpedSpaceExpander",
+      "QARWellFormedRhythmExpander",
+      "QuadAlgorithmicRhythm",
+      "QuantussyCell",
+      "RouletteLFO",
+      "SeedsOfChange",
+      "SeedsOfChangeCVExpander",
+      "SeedsOfChangeGateExpander",
+      "SeriouslySlowEG",
+      "SeriouslySlowLFO",
+      "SliceOfLife",
+      "StringTheory",
+      "TheGardener",
+      "TheOneRingModulator",
+      "VoxInhumana",
+      "VoxInhumanaExpander"
+    ],
+    "Fundamental": true,
+    "Geodesics": [
+      "BlackHoles",
+      "Blank-PanelLogo",
+      "Branes",
+      "DarkEnergy",
+      "Energy",
+      "Entropia",
+      "Fate",
+      "Ions",
+      "Pulsars",
+      "Torus"
+    ],
+    "GoodSheperd": [
+      "SEQ3st",
+      "Stable16"
+    ],
+    "GrandeModular": [
+      "Compare3",
+      "LFO3",
+      "LFO4",
+      "Push",
+      "Tails4",
+      "VCA3",
+      "VCA4"
+    ],
+    "Grayscale": [
+      "Algorhythm",
+      "Permutation12",
+      "Permutation18",
+      "Permutation6",
+      "Supercell",
+      "Variant"
+    ],
+    "HamptonHarmonics": [
+      "Arp",
+      "Progress"
+    ],
+    "HetrickCV": [
+      "PhaseDrivenSequencer",
+      "PhaseDrivenSequencer32",
+      "PhasorBurstGen",
+      "PhasorEuclidean",
+      "PhasorGates32",
+      "PhasorGates64",
+      "PhasorGen",
+      "PhasorHumanizer",
+      "PhasorMixer",
+      "PhasorSwing",
+      "PhasorToClock",
+      "PhasorToLFO",
+      "PhasorToWaveforms",
+      "Probability"
+    ],
+    "HolonicSystems-Free": [
+      "HolonicSystems-DumbwaiterSequencer"
+    ],
+    "Hora-Mixers": [
+      "StereoMixer-16-2",
+      "StereoMixer-8-2"
+    ],
+    "Hora-ModulationFree": [
+      "TwinQuartet-LFO"
+    ],
+    "Hora-VCO_VCF_VCA_Free": [
+      "Amplitude-VCMixer",
+      "Juicy-VCF",
+      "Vector-Synth"
+    ],
+    "Hora-treasureFree": [
+      "Deep",
+      "SnareDrum-VCV"
+    ],
+    "ImpromptuModular": [
+      "Adaptive-Quantizer",
+      "Big-Button-Seq",
+      "Big-Button-Seq2",
+      "Blank-Panel",
+      "Chord-Key",
+      "Chord-Key-Expander",
+      "Clocked",
+      "Clocked-Clkd",
+      "Clocked-Expander",
+      "Cv-Pad",
+      "Foundry",
+      "Foundry-Expander",
+      "Four-View",
+      "Gate-Seq-64",
+      "Gate-Seq-64-Expander",
+      "Hotkey",
+      "NoteEcho",
+      "Part-Gate-Split",
+      "Phrase-Seq-16",
+      "Phrase-Seq-32",
+      "Phrase-Seq-Expander",
+      "Prob-Key",
+      "Semi-ModularSynth",
+      "Sygen",
+      "Tact",
+      "Tact1",
+      "TactG",
+      "Twelve-Key",
+      "Variations",
+      "Write-Seq-32",
+      "Write-Seq-64"
+    ],
+    "InfrasonicAudio": [
+      "WarpCore"
+    ],
+    "Instruo": [
+      "cruinn"
+    ],
+    "JPFree": [
+      "ImprovJr",
+      "StarMatrixJr",
+      "ThreeTrack",
+      "WindowedSwitch"
+    ],
+    "JW-Modules": [
+      "0Cat",
+      "1Pattern",
+      "8Seq",
+      "Add5",
+      "BlankPanel_LG",
+      "BlankPanel_MD",
+      "BlankPanel_SM",
+      "BouncyBalls",
+      "CoolBreeze",
+      "D1v1de",
+      "DivSeq",
+      "FullScope",
+      "GridSeq",
+      "MinMax",
+      "NoteSeq",
+      "NoteSeq16",
+      "NoteSeqFu",
+      "Patterns",
+      "Pete",
+      "Pres1t",
+      "Quantizer",
+      "SimpleClock",
+      "Str1ker",
+      "ThingThing",
+      "Tree",
+      "Trigs",
+      "WavHead",
+      "XYPad"
+    ],
+    "Jasmine-and-Olive-Trees": [
+      "Traffic"
+    ],
+    "KRTPluginA": [
+      "Y",
+      "Z"
+    ],
+    "KautenjaDSP-PotatoChips": [
+      "Blocks"
+    ],
+    "KautenjaDSP-RackNES": [
+      "InputGenie",
+      "RackNES"
+    ],
+    "Kilpatrick-Toolbox": [
+      "MIDI_Clock",
+      "MIDI_Repeater"
+    ],
+    "LifeFormModular": [
+      "ImpulseControl",
+      "PercussiveVibration",
+      "SequenceModeler",
+      "TornArtery"
+    ],
+    "LittleUtils": [
+      "BiasSemitone",
+      "Button",
+      "TeleportIn",
+      "TeleportOut"
+    ],
+    "LoudNumbers": [
+      "LoudNumbers"
+    ],
+    "LunettaModula": [
+      "Binary8",
+      "Truth2",
+      "Truth3"
+    ],
+    "LyraeModules": [
+      "Delta",
+      "Vega"
+    ],
+    "ML_modules": [
+      "Arpeggiator",
+      "Evolution",
+      "Quantum"
+    ],
+    "MUS-X": [
+      "ADSR",
+      "Delay",
+      "Drift",
+      "Oscillators",
+      "Tuner"
+    ],
+    "Mental": [
+      "MentalMasterClock"
+    ],
+    "MindMeldModular": [
+      "AuxExpander",
+      "AuxExpanderJr",
+      "BassMaster",
+      "BassMasterJr",
+      "EqExpander",
+      "MasterChannel",
+      "Meld",
+      "MixMaster",
+      "MixMasterJr",
+      "PatchMaster",
+      "PatchMasterBlank",
+      "RouteMasterMono1to5",
+      "RouteMasterMono5to1",
+      "RouteMasterStereo1to5",
+      "RouteMasterStereo5to1",
+      "ShapeMaster",
+      "Unmeld"
+    ],
+    "MrLumps": [
+      "SEQE"
+    ],
+    "Myth": [
+      "Mavka",
+      "Molphar"
+    ],
+    "NANOModules": [
+      "CEQ",
+      "PerformanceMixer",
+      "SERRA",
+      "STMAR",
+      "VCVRANDOM"
+    ],
+    "NLS": [
+      "CrossSeq2",
+      "CrossSeq3",
+      "TrigLogic"
+    ],
+    "NOI": [
+      "Dicotyledon",
+      "Hellebore",
+      "Sinensis",
+      "Sunflower",
+      "Wilt"
+    ],
+    "NYSTHI": [
+      "AttackSustainRelease16",
+      "AttackSustainRelease8",
+      "Bitshifter",
+      "DelayAttackHoldDecay",
+      "DissonantVerb",
+      "HotTuna",
+      "MasterRecorder2",
+      "PolyAttackDecaySustainRelease",
+      "PolyDelayAttackHoldDecay",
+      "PolyRecorder",
+      "PolyRecorder64",
+      "SQUONK",
+      "Sussudio",
+      "XattoTime",
+      "b208_5steps"
+    ],
+    "Noise86": [
+      "MarkovDrummer",
+      "TransQuant"
+    ],
+    "NonlinearCircuits": [
+      "4Seq",
+      "8BitCipher",
+      "Router",
+      "SlothApathy",
+      "SlothInertia",
+      "SlothTorpor",
+      "TripleSloth"
+    ],
+    "Noumenal-B": [
+      "HUB"
+    ],
+    "Nozoid": [
+      "Nozori_84_LFO_SEQ",
+      "Nozori_84_SEQ_8"
+    ],
+    "Ohmer": [
+      "KlokSpid",
+      "OhmerBlank1",
+      "OhmerBlank16",
+      "OhmerBlank2",
+      "OhmerBlank32",
+      "OhmerBlank4",
+      "OhmerBlank8",
+      "PolaritySwitch",
+      "RKD",
+      "SplitterModule"
+    ],
+    "OhmerPrems": [
+      "FroeZe",
+      "FroeZeX",
+      "KX",
+      "KlokSpidMkII",
+      "QuadPercs"
+    ],
+    "OrangeLine": [
+      "Dejavu",
+      "Gator",
+      "Morph",
+      "Morpheus",
+      "Mother",
+      "Phrase",
+      "Swing"
+    ],
+    "PS-PurrSoftware": [
+      "Meander",
+      "ModeScaleProgressions",
+      "ModeScaleQuant"
+    ],
+    "PatchableDevices": [
+      "ComparingCounter",
+      "DigitalChaoticSystem",
+      "DualIntegrator",
+      "NonlinearIntegrator",
+      "VoltageSequencer",
+      "WindowGenerators"
+    ],
+    "PathSet": [
+      "AstroVibe",
+      "GlassPane",
+      "IceTray",
+      "Nudge",
+      "OneShot",
+      "ShiftyMod"
+    ],
+    "PhoturiElectronics": [
+      "Cricketter",
+      "Fairyfly",
+      "Mo-Th"
+    ],
+    "PinkTrombone": [
+      "PinkTrombone"
+    ],
+    "Plurm": [
+      "randomchordrecorder"
+    ],
+    "QuantalAudio": [
+      "DaisyChannelVu"
+    ],
+    "RPJ": [
+      "Genie",
+      "GenieExpander",
+      "PigeonPlink"
+    ],
+    "RPJVisualizer": [
+      "LFMEmbedded",
+      "LFMFull"
+    ],
+    "RareBreeds_Orbits": [
+      "RareBreeds_Orbits_Eugene",
+      "RareBreeds_Orbits_Polygene"
+    ],
+    "RebelTech": [
+      "CLK",
+      "Klasmata",
+      "Logoi",
+      "Phoreo",
+      "Stoicheia",
+      "Tonic"
+    ],
+    "Rigatoni": [
+      "RigatoniModular-Loom",
+      "RigatoniModular-ThruZero"
+    ],
+    "SS-Modules": [
+      "melodygen"
+    ],
+    "SeasideModular": [
+      "Jawari",
+      "Proteus",
+      "ProteusX",
+      "Raga",
+      "Tala"
+    ],
+    "SequelSequencers": [
+      "Bend",
+      "James",
+      "Quantify",
+      "Samuel",
+      "Sequel16",
+      "Sequel8"
+    ],
+    "Sha-Bang-Modules": [
+      "Cosmosis",
+      "Neutrinode",
+      "PolyrhythmClock",
+      "StochSeq",
+      "StochSeq4",
+      "StochSeqGrid",
+      "Talea"
+    ],
+    "SickoCV": [
+      "Blender",
+      "Blender8",
+      "Clocker",
+      "DrumPlayerPlus",
+      "DrumPlayerXtra",
+      "Drummer4Plus",
+      "Holder8",
+      "SickoLooper3",
+      "SickoLooper5",
+      "SickoSampler2",
+      "Toggler",
+      "Wavetabler"
+    ],
+    "SillySounds": [
+      "Kyle",
+      "Lola",
+      "Sesame"
+    ],
+    "Skylander": [
+      "NymphesControl"
+    ],
+    "SonusModular": [
+      "Micromacro"
+    ],
+    "Sparkette": [
+      "HSV2RGB",
+      "NoteClassifier",
+      "PolyRepeater",
+      "PolySelector",
+      "RGBMatrix",
+      "RGBMatrix16",
+      "RGBMatrix64"
+    ],
+    "Starling_Via": [
+      "GATESEQ",
+      "SCANNER",
+      "SYNC3XL",
+      "SYNC3XLLEVELS"
+    ],
+    "StellareModular": [
+      "BlankPanel",
+      "TuringMachine"
+    ],
+    "StochasticTelegraph": [
+      "BASICally",
+      "Drifter",
+      "Fuse",
+      "TTY"
+    ],
+    "Stoermelder-P1": [
+      "Arena",
+      "Dirt",
+      "FourRounds",
+      "Hive",
+      "Intermix",
+      "IntermixEnv",
+      "IntermixFade",
+      "IntermixGate",
+      "Maze",
+      "Me",
+      "MidiCatClk",
+      "MidiKey",
+      "MidiMon",
+      "Orbit",
+      "Raw",
+      "ReMoveLite",
+      "Spin",
+      "StripBay4",
+      "Stroke",
+      "Transit",
+      "TransitEx"
+    ],
+    "StudioSixPlusOne": [
+      "Amburgh",
+      "Bascom",
+      "BascomExpander",
+      "Duffy",
+      "Farini",
+      "Hula",
+      "Iverson",
+      "IversonJr",
+      "LalaStereo"
+    ],
+    "SubmarineFree": [
+      "A0-101",
+      "EN-104",
+      "VM-102"
+    ],
+    "SurgeXTRack": [
+      "SurgeXTDelay",
+      "SurgeXTDelayLineByFreq",
+      "SurgeXTDigitalRingMod",
+      "SurgeXTEGxVCA",
+      "SurgeXTFXBonsai",
+      "SurgeXTFXChorus",
+      "SurgeXTFXChow",
+      "SurgeXTFXCombulator",
+      "SurgeXTFXDistortion",
+      "SurgeXTFXEnsemble",
+      "SurgeXTFXExciter",
+      "SurgeXTFXFlanger",
+      "SurgeXTFXFrequencyShifter",
+      "SurgeXTFXNeuron",
+      "SurgeXTFXNimbus",
+      "SurgeXTFXPhaser",
+      "SurgeXTFXResonator",
+      "SurgeXTFXReverb",
+      "SurgeXTFXReverb2",
+      "SurgeXTFXRingMod",
+      "SurgeXTFXRotarySpeaker",
+      "SurgeXTFXSpringReverb",
+      "SurgeXTFXTreeMonster",
+      "SurgeXTFXVocoder",
+      "SurgeXTLFO",
+      "SurgeXTMixer",
+      "SurgeXTMixerSlider",
+      "SurgeXTModMatrix",
+      "SurgeXTOSCAlias",
+      "SurgeXTOSCClassic",
+      "SurgeXTOSCFM2",
+      "SurgeXTOSCFM3",
+      "SurgeXTOSCModern",
+      "SurgeXTOSCSHNoise",
+      "SurgeXTOSCSine",
+      "SurgeXTOSCString",
+      "SurgeXTOSCTwist",
+      "SurgeXTOSCWavetable",
+      "SurgeXTOSCWindow",
+      "SurgeXTQuadAD",
+      "SurgeXTQuadLFO",
+      "SurgeXTUnisonHelper",
+      "SurgeXTUnisonHelperCVExpander",
+      "SurgeXTVCF",
+      "SurgeXTWaveshaper"
+    ],
+    "SynthKit": [
+      "8-StepSequencer",
+      "PrimeClockDivider"
+    ],
+    "TMT": [
+      "Calendar",
+      "Seed",
+      "Shuffle"
+    ],
+    "TheAllElectricSmartGrid": [
+      "LameJuis"
+    ],
+    "Tonecarver": [
+      "Morse",
+      "Traveler"
+    ],
+    "TyrannosaurusRu": [
+      "ChaosMaps",
+      "Droplets",
+      "LFSR16Poly",
+      "LFSR8Poly",
+      "LogisticScratch",
+      "Pluck",
+      "muLooper"
+    ],
+    "VCV-Recorder": [
+      "Recorder"
+    ],
+    "Valley": [
+      "Amalgam",
+      "Dexter",
+      "Feline",
+      "Interzone",
+      "Plateau",
+      "Terrorform",
+      "Topograph",
+      "uGraph"
+    ],
+    "Venom": [
+      "BenjolinOsc",
+      "BernoulliSwitch",
+      "BernoulliSwitchExpander",
+      "CloneMerge",
+      "HQ",
+      "LinearBeats",
+      "LinearBeatsExpander",
+      "Mix4",
+      "Mix4Stereo",
+      "MixFade",
+      "MixFade2",
+      "MixMute",
+      "MixOffset",
+      "MixPan",
+      "MixSend",
+      "MixSolo",
+      "NORS_IQ",
+      "PolyClone",
+      "PolyUnison",
+      "Recurse",
+      "RecurseStereo",
+      "Reformation",
+      "RhythmExplorer",
+      "ShapedVCA",
+      "VCAMix4",
+      "VCAMix4Stereo"
+    ],
+    "VultModulesFree": [
+      "Basal",
+      "BlackPanel",
+      "BlackPanelBig",
+      "BlackPanelSmall",
+      "Bleak",
+      "Boomstick",
+      "Caudal",
+      "Debriatus",
+      "Decline",
+      "Disjoint",
+      "Flux",
+      "Fuser",
+      "Jorus",
+      "Julste",
+      "Lateralus",
+      "Leakage",
+      "Nitrous",
+      "Nopskate",
+      "Opulus",
+      "OpulusMicro",
+      "Punch",
+      "Rescomb",
+      "Slap",
+      "Spank",
+      "Splie",
+      "Stabile",
+      "Stress",
+      "Tangents",
+      "Tohe",
+      "Trummor",
+      "Trummor2",
+      "TrummorFM",
+      "Unstabile",
+      "UtilBypass",
+      "UtilKnobs",
+      "UtilSend",
+      "Vessek",
+      "Vultari",
+      "Wolv"
+    ],
+    "ZZC": [
+      "Clock"
+    ],
+    "ZetaCarinae": [
+      "Rosenchance"
+    ],
+    "alefsbits": [
+      "fibb",
+      "lights",
+      "math",
+      "noize",
+      "nos",
+      "polycounter",
+      "polyshuffle",
+      "slips",
+      "steps",
+      "turnt"
+    ],
+    "alto777_LFSR": [
+      "Amuse",
+      "Psychtone"
+    ],
+    "aridacity": [
+      "ClockDiv"
+    ],
+    "az": [
+      "modulo"
+    ],
+    "cf": [
+      "ALGEBRA",
+      "BUFFER",
+      "CHOKE",
+      "CUBE",
+      "CUTS",
+      "DAVE",
+      "DISTO",
+      "EACH",
+      "FOUR",
+      "FUNKTION",
+      "L3DS3Q",
+      "LABEL",
+      "LEDSEQ",
+      "MASTER",
+      "METRO",
+      "MONO",
+      "PATCH",
+      "PEAK",
+      "PLAY",
+      "PLAYER",
+      "SLIDERSEQ",
+      "STEPS",
+      "STEREO",
+      "SUB",
+      "VARIABLE",
+      "trSEQ"
+    ],
+    "computerscare": [
+      "computerscare-blank-expander",
+      "computerscare-fatherandson",
+      "computerscare-foly-pace",
+      "computerscare-goly-penerator",
+      "computerscare-horse-a-doodle-doo",
+      "computerscare-i-love-cookies",
+      "computerscare-laundry-soup",
+      "computerscare-moly-patrix",
+      "computerscare-roly-pouter",
+      "computerscare-soly-pequencer",
+      "computerscare-stoly-fick-pigure",
+      "computerscare-toly-pools"
+    ],
+    "cvly": [
+      "brst",
+      "crcl",
+      "ntrvlc",
+      "stpr",
+      "vbrt"
+    ],
+    "dBiz": [
+      "Bench",
+      "Bene",
+      "BigSmorph",
+      "Chord",
+      "Contorno",
+      "DAOSC",
+      "DVCO",
+      "Divider",
+      "DualFilter",
+      "DualMatrix",
+      "FourSeq",
+      "Order",
+      "PerfMixer",
+      "PerfMixer4",
+      "Remix",
+      "SPan",
+      "Smixer",
+      "Smorph",
+      "SuHa",
+      "TROSC",
+      "TROSCMK2",
+      "Util2",
+      "Utility",
+      "Verbo"
+    ],
+    "dawnbree": [
+      "notepad",
+      "prismo",
+      "seesaw"
+    ],
+    "dbRackFormulaOne": [
+      "FormulaOne"
+    ],
+    "dbRackModules": [
+      "AP",
+      "AUX",
+      "AddSynth",
+      "BWF",
+      "CHBY",
+      "CLP",
+      "CSOSC",
+      "CWS",
+      "DRM",
+      "Drums",
+      "FLA",
+      "FLL",
+      "Faders",
+      "Frac",
+      "GenScale",
+      "Gendy",
+      "GeneticSuperTerrain",
+      "GeneticTerrain",
+      "HexSeq",
+      "HexSeqP",
+      "Hopa",
+      "Interface",
+      "JTScaler",
+      "JWS",
+      "L4P",
+      "LWF",
+      "MPad2",
+      "MVerb",
+      "OFS",
+      "OFS3",
+      "Osc1",
+      "Osc2",
+      "Osc3",
+      "Osc4",
+      "Osc5",
+      "Osc6",
+      "Osc7",
+      "Osc8",
+      "Osc9",
+      "PHSR",
+      "PHSR2",
+      "PLC",
+      "PPD",
+      "PRB",
+      "PShift",
+      "Pad",
+      "Pad2",
+      "PhO",
+      "PhS",
+      "Plotter",
+      "RSC",
+      "RTrig",
+      "RndC",
+      "RndG",
+      "RndH",
+      "RndH2",
+      "SKF",
+      "SPF",
+      "SPL",
+      "STrig",
+      "SWF",
+      "SuperLFO",
+      "USVF",
+      "YAC"
+    ],
+    "dbRackSequencer": [
+      "ACC",
+      "AG",
+      "ASEQ",
+      "Ant",
+      "C42",
+      "C42E",
+      "CCA",
+      "CCA2",
+      "CSR",
+      "CV",
+      "CYC",
+      "Carambol",
+      "Chords",
+      "HexSeqP2",
+      "JTChords",
+      "Klee",
+      "M851",
+      "MMatrix",
+      "MouseSeq",
+      "N3",
+      "P16",
+      "P16A",
+      "P16B",
+      "P16S",
+      "P4",
+      "PMod",
+      "PXY",
+      "Preset",
+      "PwmClock",
+      "SE",
+      "SigMod",
+      "Sum",
+      "TD4",
+      "TME",
+      "TXVI",
+      "TheMatrix",
+      "Uno",
+      "UnoA",
+      "UnoE"
+    ],
+    "fruitsofkarma": [
+      "CellularAuto",
+      "ColoredGlass",
+      "Math",
+      "PowVCO",
+      "Quadro360",
+      "ScaleMerger"
+    ],
+    "gregsbrain": [
+      "xVox"
+    ],
+    "h4n4-modules": [
+      "xen-qnt"
+    ],
+    "htLocal": [
+      "htFader",
+      "htFader16"
+    ],
+    "kocmoc": [
+      "TRG"
+    ],
+    "matrix-sequencer": [
+      "matrix-sequencer"
+    ],
+    "minimal-friction": [
+      "kanon"
+    ],
+    "moDllz": [
+      "Kn8b",
+      "PolyGlider",
+      "Xpand"
+    ],
+    "monome": [
+      "ansible",
+      "earthsea",
+      "grid128",
+      "grid256",
+      "grid64",
+      "meadowphysics",
+      "teletype",
+      "whitewhale"
+    ],
+    "mscHack": [
+      "ARP700",
+      "MasterClockx4",
+      "Morze",
+      "SEQ_Envelope_8",
+      "Seq_6ch_32step",
+      "TriadSeq2"
+    ],
+    "nullpath": [
+      "funcgen",
+      "randrouter",
+      "supersaw",
+      "switch18",
+      "switch81"
+    ],
+    "pachde-one": [
+      "pachde-imagine"
+    ],
+    "patina": [
+      "MemoryPad"
+    ],
+    "questionablemodules": [
+      "discombobulator",
+      "nandomizer",
+      "quatosc",
+      "treequencer"
+    ],
+    "rcm": [
+      "rcm-pianoroll",
+      "rcm-seq-adapter",
+      "rcm-sync"
+    ],
+    "scanner-darkly-collection-one": [
+      "SDOrcasHeart"
+    ],
+    "sn": [
+      "sn-lfo",
+      "sn-lfox",
+      "sn-vco",
+      "sn-vcox"
+    ],
+    "squinktronix-plug1": [
+      "sqh-arpeggiator1",
+      "sqh-harmony1"
+    ],
+    "squinkylabs-plug1": [
+      "squinkylabs-CHB2",
+      "squinkylabs-basic",
+      "squinkylabs-comp",
+      "squinkylabs-dt",
+      "squinkylabs-ev3",
+      "squinkylabs-f2",
+      "squinkylabs-filt",
+      "squinkylabs-lfn",
+      "squinkylabs-mix4",
+      "squinkylabs-mix8",
+      "squinkylabs-mixm",
+      "squinkylabs-sequencer",
+      "squinkylabs-sequencer4",
+      "squinkylabs-shp",
+      "squinkylabs-sines",
+      "squinkylabs-sub",
+      "squinkylabs-super",
+      "squinkylabs-tremolo",
+      "squinkylabs-wvco"
+    ],
+    "trowaSoft": [
+      "cvOSCcv-OutputExpander-16",
+      "multiScope",
+      "multiSeq64",
+      "multiWave",
+      "multiWaveMini",
+      "polyGen",
+      "trigSeq",
+      "trigSeq64",
+      "tsBlank",
+      "voltSeq"
+    ],
+    "unless_modules": [
+      "cantor",
+      "markov",
+      "piong",
+      "snake"
+    ],
+    "vanTies": [
+      "Ad"
+    ],
+    "voxglitch": [
+      "AutobreakStudio",
+      "GrooveBoxExpander",
+      "arpseq",
+      "digitalprogrammer",
+      "digitalsequencer",
+      "digitalsequencerxp",
+      "drumrandomizer",
+      "glitchsequencer",
+      "groovebox",
+      "hazumi",
+      "noteDetector",
+      "onepoint",
+      "sampler16p",
+      "wavbankmc"
+    ]
+  }
+}

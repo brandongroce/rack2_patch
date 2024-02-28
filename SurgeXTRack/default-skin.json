@@ -1,0 +1,13 @@
+{
+  "defaultSkin": 10002,
+  "defaultLightColor": 900005,
+  "defaultModLightColor": 900005,
+  "defaultControlValueColor": 900001,
+  "defaultPowerButtonColor": 900003,
+  "controlValueColorDistinct": false,
+  "showKnobValuesAtRest": true,
+  "showModulationAnimationOnKnobs": true,
+  "showModulationAnimationOnDisplay": true,
+  "showShadows": true,
+  "waveshaperShowsBothCurves": false
+}

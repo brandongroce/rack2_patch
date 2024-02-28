@@ -1,0 +1,13 @@
+{
+  "contrastDefault": 220.0,
+  "redLED_RGB": [
+    237,
+    44,
+    36
+  ],
+  "greenLED_RGB": [
+    144,
+    199,
+    62
+  ]
+}
